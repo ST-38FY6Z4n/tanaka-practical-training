@@ -8,7 +8,7 @@
 - 📫 How to reach me ...　E-mail
 
 オンラインスクールにて学習の上、回答を見ずに自力で作成したClassをアップしています。<br>
-徐々にきれいなコードを書けるように、ブラッシュアップしていく所存です。
+きれいなコードを書けるように、ブラッシュアップしていく所存です。
 
 <!---
 neonatts/neonatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
