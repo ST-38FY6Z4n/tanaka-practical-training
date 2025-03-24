@@ -2,10 +2,13 @@
 
 
 - 👋 Hi, I’m ... 'S'anae'T'anaka 
-- 👀 I’m interested in ...　painting and philosophy
+- 👀 I’m interested in ...　painting, philosophy and graphic design
 - 🌱 I’m currently learning ...　Java
 - 💞️ I’m looking to collaborate on ... Eclipse
 - 📫 How to reach me ...　E-mail
+
+オンラインスクールにて学習の上、回答を見ずに自力で作成したClassをアップしています。
+徐々にきれいなコードを書けるように、ブラッシュアップしていく所存です。
 
 <!---
 neonatts/neonatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
