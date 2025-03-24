@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ... Eclipse
 - 📫 How to reach me ...　E-mail
 
-オンラインスクールにて学習の上、自力で作成したClassをアップしています。<br>
+オンラインスクールにて学習の上、課題として自力で作成したClassをアップしています。<br>
 きれいなコードを書けるように、考え方をブラッシュアップしていく所存です。
 
 <!---
