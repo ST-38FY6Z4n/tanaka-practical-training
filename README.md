@@ -5,7 +5,7 @@
 - 👀 I’m interested in ...　painting and philosophy
 - 🌱 I’m currently learning ...　Java
 - 💞️ I’m looking to collaborate on ... Eclipse
-- 📫 How to reach me ...　
+- 📫 How to reach me ...　E-mail
 
 <!---
 neonatts/neonatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
