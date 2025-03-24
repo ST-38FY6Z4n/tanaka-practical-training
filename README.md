@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on ... Eclipse
 - 📫 How to reach me ...　E-mail
 
-オンラインスクールにて学習の上、回答を見ずに自力で作成したClassをアップしています。<br>
-きれいなコードを書けるように、ブラッシュアップしていく所存です。
+オンラインスクールにて学習の上、自力で作成したClassをアップしています。<br>
+きれいなコードを書けるように、考え方をブラッシュアップしていく所存です。
 
 <!---
 neonatts/neonatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
